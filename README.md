@@ -7,5 +7,5 @@ This are some write-ups from my team APEX PREDATOR, emerging 7th place out of 87
 
 ## Contents
 
-* [Managed Secrets](Managed%20Secrets.md)
-* [Restoration and Repair](Restoration%20and%20Repair) 
+* [Managed Secrets](https://github.com/aldrichhhh/ctf-writeups/blob/main/LNC2023/Cloud/Managed%20Secrets.md)
+* [Restoration and Repair](https://github.com/aldrichhhh/ctf-writeups/blob/main/LNC2023/Forensics/Restoration%20and%20Repair.md) 
