@@ -41,9 +41,11 @@ https://management.azure.com/subscriptions/d7748706-f6cc-4e9d-a1f8-1fc802191456/
 
 
 Using the [Microsoft Azure Storage Explorer](https://github.com/microsoft/AzureStorageExplorer/releases) Select Storage account or service > Account name and key. Connect to the storage using the credentials.
+
 ![ManagedSecrets6](https://user-images.githubusercontent.com/84762311/233681283-cb18c67d-967b-45fc-acff-f097bd09a958.png)
 
 Retrieve the flag in private
+
 ![ManagedSecrets7](https://user-images.githubusercontent.com/84762311/233681578-b9c5b362-7b92-4120-80f1-cce49531e510.png)
 
 
